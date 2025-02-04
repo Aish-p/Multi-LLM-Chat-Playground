@@ -1,4 +1,4 @@
-# 🚀 Multi-LLM-Chat-Playground
+# Multi-LLM-Chat-Playground
 
 Welcome to the Multi-LLM Chat Playground! 🎉 This interactive app lets you compare responses from multiple Large Language Models (LLMs) in real-time using LiteLLM — a lightweight, unified API for interacting with different LLM providers.
 
@@ -9,7 +9,7 @@ Welcome to the Multi-LLM Chat Playground! 🎉 This interactive app lets you com
 
 Whether you’re experimenting with creative prompts or exploring the models' different styles, this app provides a fun, easy way to see how each model handles the same input.
 
-## 🌟 Key Features
+## Key Features
 
 🤖 Multi-Model Comparison: Compare responses from GPT-4o, Claude 3.5 Sonnet, and Cohere Command R Plus.
 
@@ -21,13 +21,13 @@ Whether you’re experimenting with creative prompts or exploring the models' di
 
 🎨 Creative Experimentation: Test various prompts, from simple questions to creative tasks like writing poetry.
 
-## ⚙️ How It Works
+## How It Works
 
 1. Set API Keys 🔑
    Provide API keys for OpenAI, Anthropic, and Cohere to access the models.
 
-2. Choose a Prompt ✍️
-   Set a custom prompt or use the default prompt. This influences how the models respond.
+2. Test Your Prompts ✍️
+   Enter a custom prompt or use the default one to see how it shapes the models' responses.
 
 3. Enter Your Message 💬
    Type a message or question you’d like to send to all models.
@@ -35,7 +35,7 @@ Whether you’re experimenting with creative prompts or exploring the models' di
 4. View Responses 👀
    See how each model responds side-by-side!
 
-## 🔧 Getting Started
+## Getting Started
 
 1. Clone this repository.
 2. Install the required dependencies:
