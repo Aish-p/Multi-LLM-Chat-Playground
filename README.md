@@ -12,9 +12,13 @@ Whether you’re experimenting with creative prompts or exploring the models' di
 ## 🌟 Key Features
 
 🤖 Multi-Model Comparison: Compare responses from GPT-4o, Claude 3.5 Sonnet, and Cohere Command R Plus.
+
 🔧 Custom System Prompts: Define your own system prompts to influence model behavior and responses.
+
 👀 Side-by-Side View: Instantly see how each model interprets and responds to the same input.
+
 🔌 Powered by LiteLLM – A simple, unified interface to access multiple LLMs with ease.
+
 🎨 Creative Experimentation: Test various prompts, from simple questions to creative tasks like writing poetry.
 
 ## ⚙️ How It Works
@@ -41,7 +45,7 @@ Whether you’re experimenting with creative prompts or exploring the models' di
 3. Enter your API keys for OpenAI, Anthropic, and Cohere.
 4. Start the app:
   ```
-  streamlit run multi_llm_pg.py
+  streamlit run multi-llm-pg.py
   ```
 5. Begin experimenting and have fun! 🎉
 
