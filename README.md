@@ -56,13 +56,13 @@ Here’s a quick look at how the Multi-LLM Chat Playground works!
 
 <div align="center">
   <p><strong>Enter API Keys</strong></p>
-  <img src="/screenshots/start_page.PNG" alt="Enter API Keys" width="600">
+  <img src="/screenshots/start_page.PNG" alt="Enter API Keys" width="700">
 </div>
 <br>
 
 <div align="center">
   <p><strong>Enter a Prompt & Message</strong></p>
-  <img src="/screenshots/model_responses.PNG" alt="Enter a Prompt & Message" width="600">
+  <img src="/screenshots/model_responses.PNG" alt="Enter a Prompt & Message" width="700">
 </div>
 <br>
 
